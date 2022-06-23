@@ -1,4 +1,4 @@
-baseURL = "https://stephankoenig.name"
+baseURL = "https://stephankoenig.me"
 theme = "hugo-apero"
 languageCode = "en"
 title = "The personal website of Stephan König"
