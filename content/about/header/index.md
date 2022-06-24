@@ -7,4 +7,4 @@ headline: |
 ---
 
 <!-- This is a subheadline -->
-I am a PostDoc Teaching and Learning Fellow in the Microbiology and Immunology Department at the University of British Columbia, coordinating the [EDUCE initiative](https://educe-ubc.github.io). Soon, I will be part of [Skylight](https://skylight.science.ubc.ca) as a Science Education Specialist in the Computer Science Department.
+I am a [Skylight](https://skylight.science.ubc.ca) Science Education Specialist in the Computer Science Department at the University of British Columbia. Previously, I worked as a PostDoc Teaching and Learning Fellow in the Microbiology and Immunology Department, coordinating the [EDUCE initiative](https://educe-ubc.github.io).
