@@ -1,12 +1,12 @@
 ---
 ## Configure page content in wide column
-title: "Only learning might overcome our false beliefs." # leave blank to exclude
-number_featured: 0 # pulling from mainSections in config.toml
+title: "Learning shapes our beliefs, and our beliefs shape the world." # leave blank to exclude
+number_featured: 0 # pulling from Sections in config.toml
 use_featured: false # if false, use most recent by date
 number_categories: 3 # set to zero to exclude
 show_intro: true
 intro: |
-  Our ability to learn and acquire new skills is one of the defining characterics of humans.
+  The ability to learn and acquire new skills is one of the defining characteristics of humans.
 show_outro: true
 outro: |
   This website is still under construction. New content will follow soon.
