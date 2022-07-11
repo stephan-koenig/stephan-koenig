@@ -1,4 +1,9 @@
-.Rproj.user
+.DS_Store
+.hugo_build.lock
 .Rhistory
-.RData
+.Rproj.user
 .Ruserdata
+.RData
+Thumbs.db
+/public/
+/resources/
