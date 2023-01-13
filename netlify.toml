@@ -1,0 +1,32 @@
+[build.processing]
+  skip_processing = false
+[build.processing.css]
+  bundle = true
+  minify = true
+[build.processing.js]
+  bundle = true
+  minify = true
+[build.processing.html]
+  pretty_urls = true
+[build.processing.images]
+  compress = true
+
+[[plugins]]
+package = "@quarto/netlify-plugin-quarto"
+
+[[plugins]]
+package = "netlify-plugin-a11y"
+  [plugins.inputs]
+  # Do not fail the build if a11y issues are found
+  resultMode = "warn"
+    
+[[plugins]]
+package = "netlify-plugin-checklinks"
+  [plugins.inputs]
+  # Do not fail the build if any issues with links are found
+  todoPatterns = [
+    "load",
+  ]
+
+[[plugins]]
+package = "netlify-plugin-inline-critical-css"
