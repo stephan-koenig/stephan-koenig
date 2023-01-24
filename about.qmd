@@ -4,11 +4,17 @@ about:
   template: solana
   image: images/profile.jpg
   links:
+    - icon: mastodon
+      text: "Mastodon"
+      href: "https://fosstodon.org/@stephankoenig"
     - icon: twitter
+      text: "Twitter"
       href: "https://twitter.com/stephankoenig"
     - icon: github
+      text: "GitHub"
       href: "https://github.com/stephan-koenig"
     - icon: linkedin
+      text: "LinkedIn"
       href: "https://www.linkedin.com/in/stephan-koenig"
     # - text: "{{< fa brands researchgate >}}"
     #   href: "https://www.researchgate.net/profile/Stephan-Koenig-6"
@@ -24,9 +30,8 @@ Learning shapes our beliefs, and our beliefs shape the world.
 
 The ability to learn and acquire new skills is one of the defining characteristics of humans.
 
----
+------------------------------------------------------------------------
 
 I live, work and learn on the traditional, ancestral, and unceded, traditional, ancestral [xʷməθkʷəy̓əm (Musqueam) Territory](https://www.musqueam.bc.ca/).
-
 
 **This website is still under construction. New content will follow soon.**

@@ -16,12 +16,18 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-    right: 
+    right:
+      - icon: mastodon
+        aria-label: "Mastodon"
+        href: "https://fosstodon.org/@stephankoenig"
       - icon: twitter
+        aria-label: "Twitter"
         href: "https://twitter.com/stephankoenig"
       - icon: github
+        aria-label: "GitHub"
         href: "https://github.com/stephan-koenig"
       - icon: linkedin
+        aria-label: "LinkedIn"
         href: "https://www.linkedin.com/in/stephan-koenig"
       # - text: "{{< fa brands researchgate size=lg >}}"
       #   href: "https://www.researchgate.net/profile/Stephan-Koenig-6"
