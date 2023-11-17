@@ -22,7 +22,9 @@ about:
 
 ## Hi, there! Coffee?
 
-I am an evolutionary biologist by training and a self-taught data scientist and previously worked as a PostDoc Teaching and Learning Fellow in the Microbiology and Immunology Department at the University of British Columbia (UBC), coordinating the [EDUCE initiative](https://educe-ubc.github.io). As a [Skylight](https://skylight.science.ubc.ca) Science Education Specialist in the Computer Science Department at UBC, I think about how modern computational tools can enhance teaching and learning. I often fantasize about unshackling files from directories and love the colour orange, pour-over coffee & Markdown.
+I am an evolutionary biologist by training and a self-taught data scientist and previously worked as a PostDoc Teaching and Learning Fellow in the Microbiology and Immunology Department at the University of British Columbia (UBC), coordinating the [EDUCE initiative](https://educe-ubc.github.io).
+As a [Skylight](https://skylight.science.ubc.ca) Science Education Specialist in the Computer Science Department at UBC, I think about how modern computational tools can enhance teaching and learning.
+I often fantasize about unshackling files from directories and love the colour orange, pour-over coffee & Markdown.
 
 ### Philosophy
 
@@ -32,6 +34,6 @@ The ability to learn and acquire new skills is one of the defining characteristi
 
 ------------------------------------------------------------------------
 
-I live, work and learn on the traditional, ancestral, and unceded, traditional, ancestral [xʷməθkʷəy̓əm (Musqueam) Territory](https://www.musqueam.bc.ca/).
+I live, work and learn on the traditional, ancestral, and unceded [xʷməθkʷəy̓əm (Musqueam) Territory](https://www.musqueam.bc.ca/).
 
 **This website is still under construction. New content will follow soon.**
