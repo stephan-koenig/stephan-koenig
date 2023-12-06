@@ -15,13 +15,15 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: publications.qmd
+        text: Publications
       - about.qmd
     right:
       - icon: mastodon
         aria-label: "Mastodon"
         href: "https://fosstodon.org/@stephankoenig"
-      - icon: twitter
-        aria-label: "Twitter"
+      - icon: twitter-x
+        aria-label: "X"
         href: "https://twitter.com/stephankoenig"
       - icon: github
         aria-label: "GitHub"
@@ -39,6 +41,9 @@ format:
       dark: darkly
     css: styles.css
     toc: true
+
+bibliography: references.bib
+csl: apa-cv.csl
 
 execute:
   freeze: auto

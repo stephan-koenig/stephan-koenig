@@ -3,7 +3,7 @@
     "Version": "4.3.2",
     "Repositories": [
       {
-        "Name": "CRAN",
+        "Name": "PPM",
         "URL": "https://packagemanager.posit.co/cran/latest"
       }
     ]
@@ -13,7 +13,7 @@
       "Package": "renv",
       "Version": "1.0.3",
       "Source": "Repository",
-      "Repository": "RSPM",
+      "Repository": "PPM",
       "Requirements": [
         "utils"
       ],

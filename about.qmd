@@ -7,8 +7,7 @@ about:
     - icon: mastodon
       text: "Mastodon"
       href: "https://fosstodon.org/@stephankoenig"
-    - icon: twitter
-      text: "Twitter"
+    - icon: twitter-x
       href: "https://twitter.com/stephankoenig"
     - icon: github
       text: "GitHub"
