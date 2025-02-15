@@ -22,9 +22,6 @@ website:
       - icon: mastodon
         aria-label: "Mastodon"
         href: "https://fosstodon.org/@stephankoenig"
-      - icon: twitter-x
-        aria-label: "X"
-        href: "https://twitter.com/stephankoenig"
       - icon: github
         aria-label: "GitHub"
         href: "https://github.com/stephan-koenig"
