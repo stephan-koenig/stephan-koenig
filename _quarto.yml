@@ -1,6 +1,8 @@
 project:
   type: website
 
+quarto-required: ">=1.7"
+
 website:
   title: "Stephan König"
   description: "A personal website"
@@ -31,11 +33,13 @@ website:
       # - text: "{{< fa brands researchgate size=lg >}}"
       #   href: "https://www.researchgate.net/profile/Stephan-Koenig-6"
     resources: _redirects
+
 format:
   html:
     theme:
       light: flatly
       dark: darkly
+    respect-user-color-scheme: true
     css: styles.css
     toc: true
 
