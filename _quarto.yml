@@ -21,15 +21,18 @@ website:
         text: Publications
       - about.qmd
     right:
-      - icon: mastodon
-        aria-label: "Mastodon"
-        href: "https://fosstodon.org/@stephankoenig"
       - icon: github
         aria-label: "GitHub"
         href: "https://github.com/stephan-koenig"
       - icon: linkedin
         aria-label: "LinkedIn"
         href: "https://www.linkedin.com/in/stephan-koenig"
+      - icon: mastodon
+        aria-label: "Mastodon"
+        href: "https://fosstodon.org/@stephankoenig"
+      - icon: bluesky
+        aria-label: "Bluesky"
+        href: "https://bsky.app/profile/stephan-koenig.bsky.social"
       # - text: "{{< fa brands researchgate size=lg >}}"
       #   href: "https://www.researchgate.net/profile/Stephan-Koenig-6"
     resources: _redirects
