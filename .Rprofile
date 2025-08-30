@@ -1,5 +1,6 @@
 # Use Posit Package Manager
 options(
+  renv.settings.ppm.enabled = TRUE,
   renv.config.pak.enabled = TRUE,
   renv.config.ppm.enabled = TRUE,
   renv.config.ppm.default = TRUE
@@ -9,4 +10,6 @@ options(
 source("renv/activate.R")
 
 # Set error handler to rlang
-# globalCallingHandlers(error = rlang::entrace)
+if (require(rlang, quietly = TRUE)) {
+  globalCallingHandlers(error = rlang::entrace)
+}
